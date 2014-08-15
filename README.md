@@ -1,0 +1,2 @@
+Generalized-Deletion-Condition
+==============================
